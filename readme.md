@@ -1,3 +1,4 @@
+
 <h2 align="center">
   Welcome I'm Min Thu Kha!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -84,37 +85,6 @@
 
 <br/>
 
-## Top Open Source Projects
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=minthukha-coding&repo=project1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/minthukha-coding/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=minthukha-coding&repo=project2&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/minthukha-coding/project2)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=minthukha-coding&repo=project3&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/minthukha-coding/project3)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=minthukha-coding&repo=project4&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/minthukha-coding/project4)
-
-<p align="left">
-  <a href="https://github.com/minthukha-coding?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/minthukha-coding/badges.svg)](https://starchart.cc/minthukha-coding)
-
 ## Profile Summary Card
 
 [![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minthukha-coding&theme=vue)](https://github.com/minthukha-coding)
-
-## GitHub Activity Graph
-
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=minthukha-coding&theme=github)](https://github.com/minthukha-coding)
-
-## GitHub Stats
-
-![Metrics](https://metrics.lecoq.io/minthukha-coding?template=classic&isocalendar=1&languages=1&stars=1&achievements=1&activity=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0.5&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=30&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&followup.sections=repositories&config.timezone=Asia%2FDhaka)
-
-## GitHub Contributions
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
