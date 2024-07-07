@@ -1,4 +1,4 @@
-  💬 &emsp; Ask me about anything [here](https://github.com/minthukha-coding/minthukha-coding/issues)
+💬 &emsp; Ask me about anything [here](https://github.com/minthukha-coding/minthukha-coding/issues)
  
 <h2 align="center">
   Welcome I'm Min Thu Kha!
