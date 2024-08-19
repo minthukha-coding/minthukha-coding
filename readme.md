@@ -1,28 +1,21 @@
-💬 &emsp; Ask me about anything [here](https://github.com/minthukha-coding/minthukha-coding/issues)
- 
-<h2 align="center">
-  Welcome I'm Min Thu Kha!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
- 
-<a href="https://komarev.com/ghpvc/?username=minthukha-coding">
-  <img align="right" src="https://komarev.com/ghpvc/?username=minthukha-coding&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
 
-<h3 align="center">
-  <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://minthukha-coding.com">Min Thu Kha</a></b>
-  </samp>
-</h3>
+# Welcome to My GitHub! 👋
 
-<p align="center">
+<div align="center">
+  <h2>Hi, I'm Min Thu Kha! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+  <a href="https://komarev.com/ghpvc/?username=minthukha-coding">
+    <img src="https://komarev.com/ghpvc/?username=minthukha-coding&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  </a>
+</div>
+
+<div align="center">
   <samp>
-    <a href="https://www.google.com/search?q=Min+Thu+Kha">「 Google Me 」</a>
-    <br>
-    「 I am a backend web application developer from <b>Burma</b> 」
+    <b><a target="_blank" href="https://minthukha-coding.com">Min Thu Kha</a></b>
+    <br>「 Backend Web Developer from <b>Burma</b> 」
     <br><br>
+    <a href="https://www.google.com/search?q=Min+Thu+Kha">🔍 Google Me</a>
   </samp>
-</p>
+</div>
 
 <p align="center">
   <a href="https://minthukha-coding.com" target="blank">
@@ -42,9 +35,7 @@
   </a>
 </p>
 
-<br />
-
-# Main Tech Stack
+## 🛠️ Main Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -53,25 +44,13 @@
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
 
+## 📖 About Me
 
-# About me
+<div align="right">
+  <img width="350" src="/assets/programmer.gif" alt="Coding gif" />
+</div>
 
-<p>
-  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
-  ❤️ &emsp; Love writing code and learning new features <br/><br/>
-  📧 &emsp; Reach me anytime: minthukha1239799@gmail.com <br/><br/>
-  
-  💬 &emsp; Ask me about anything [here](https://github.com/minthukha-coding/minthukha-coding/issues)
-</p>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-## Profile Summary Card
-
-
-[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minthukha-coding&theme=vue)](https://github.com/minthukha-coding)
+- ✌️ &emsp; Passionate about programming and sharing knowledge.
+- ❤️ &emsp; Enjoy writing code and exploring new technologies.
+- 📧 &emsp; Reach out anytime: [minthukha1239799@gmail.com](mailto:minthukha1239799@gmail.com).
+- 💬 &emsp; [Ask me anything!](https://github.com/minthukha-coding/minthukha-coding/issues)
