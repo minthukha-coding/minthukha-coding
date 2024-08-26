@@ -46,7 +46,7 @@
 
 ## 📖 About Me
 
-<div align="right">
+<div align="left">
   <img width="350" src="/assets/programmer.gif" alt="Coding gif" />
 </div>
 
