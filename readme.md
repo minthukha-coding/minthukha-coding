@@ -1,6 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- 💼 Software Engineer at [ACE Data Systems](https://acedatasystems.com/) [February 2024 - Present]
 
+### 🦾 Projects
+
+| Project Name            | Year           | Position           |
+|-------------------------|----------------|------------------- |
+| GTB Wallet              | 2024 - Present | Backend Devevloper |
+| Pay2U Wallet / EBMB 	  | 2024 - Present | Backend Developer  |
+| GBank EBMB 			  | 2024 - Present | Backend Developer  |
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/minthukha) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/minthukha10988) 
