@@ -1,3 +1,6 @@
+# Hi there, I'm Min Thu Kha 👋
+
+I'm a passionate software developer with a love for coding and problem-solving. Welcome to my GitHub profile!
 
 # 💫 About Me:
 - 💼 Software Engineer at [ACE Data Systems](https://acedatasystems.com/) [ February 2024 - Present ]
