@@ -18,7 +18,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 | Pay2U Wallet / EBMB 	  | 2024 - Present | Backend Developer  |
 | GBank EBMB 			        | 2024 - Present | Backend Developer  |
 | MFTB EBMB 			        | 2025 - Present | Backend Developer  |
-| MWD EBMB 			        | 2025 - Present | Backend Developer  |
+| MWD Wallet / EBMB 			        | 2025 - Present | Backend Developer  |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=minthukha-coding&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
